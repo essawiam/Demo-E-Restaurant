@@ -65,7 +65,7 @@ class _MyAppState extends State<MyApp> {
                     ),
                   ],
                   child: const FoodMenuPage(),
-                ), // The default page (Home Page).
+                ),
             '/favourite': (context) => MultiBlocProvider(
                   providers: [
                     BlocProvider.value(
