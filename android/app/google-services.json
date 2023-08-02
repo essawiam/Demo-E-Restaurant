@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288039577662",
+    "project_id": "e-res-app",
+    "storage_bucket": "e-res-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288039577662:android:65ebf92a97230c1995096f",
+        "android_client_info": {
+          "package_name": "com.example.e_restaurant_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288039577662-q4ep4kpm40465mibh88udv2k0jj60fco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbuotwHZHaIG-250Xdu_dqnnBpIsYS8Fk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288039577662-q4ep4kpm40465mibh88udv2k0jj60fco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
